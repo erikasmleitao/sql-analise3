@@ -21,4 +21,5 @@ Identificar os vendedores com maior volume de vendas, considerando apenas aquele
 🔗 [Ver consulta SQL](consulta_total_vendido_por_vendedor.sql)
 
 ## 📈 Resultado da consulta
-![Resultado da consulta SQL](Sem título2.png)
+![Resultado da consulta SQL](resultado_consulta_sql.png)
+
