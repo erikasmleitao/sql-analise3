@@ -20,3 +20,4 @@ de faturamento para análise de desempenho.
 - GROUP BY e HAVING
 - Ordenação por métricas de negócio
 
+
