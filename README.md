@@ -1,23 +1,24 @@
-
-
 # 📊 Análise de Vendas por Vendedor (SQL Server)
 
-Este projeto contém uma consulta SQL que retorna o total vendido por vendedor,
-considerando apenas aqueles que ultrapassaram um valor mínimo de vendas.
+Este projeto contém uma consulta SQL que **retorna o total vendido pelos vendedores que venderam a partir de 5.000.000**.
 
-## 🧠 Objetivo da Query
-Identificar os vendedores com maior volume de vendas, aplicando um limite mínimo
-de faturamento para análise de desempenho.
+## 🎯 Objetivo
+Identificar os vendedores com maior volume de vendas, considerando apenas aqueles cujo total vendido seja **maior ou igual a 5.000.000**.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias
 - SQL Server
 - T-SQL
 
-## 📌 Conceitos Aplicados
-- DECLARE e uso de variáveis
+## 📌 Conceitos aplicados
 - JOIN entre tabelas
 - Funções de agregação (SUM)
-- GROUP BY e HAVING
+- GROUP BY
+- HAVING
+- Uso de variáveis
 - Ordenação por métricas de negócio
 
+## 📄 Consulta SQL
+🔗 [Ver consulta SQL](consulta_total_vendido_por_vendedor.sql)
 
+## 📈 Resultado da consulta
+![Resultado da consulta SQL](Sem título2.png)
