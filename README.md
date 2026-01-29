@@ -20,6 +20,3 @@ de faturamento para análise de desempenho.
 - GROUP BY e HAVING
 - Ordenação por métricas de negócio
 
-## 📄 Query Principal
-A consulta está disponível no arquivo:
-`consulta_total_vendido_por_vendedor.sql`
